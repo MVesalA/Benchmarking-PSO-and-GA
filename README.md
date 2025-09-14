@@ -7,7 +7,7 @@ This repository focuses on benchmarking Particle Swarm Optimization (PSO) and Ge
 ## Project Structure
 
 * `Benchmark_PSO_GA.ipynb`: The main Jupyter Notebook containing the implementation of PSO and GA, the benchmark functions, and the experimental results.
-* `benchmarkfcns.py`: A Python script containing the definitions of the benchmark functions used in the experiments.
+* `Benchmark_PSO_GA_code_only.ipynb`: The main Jupyter Notebook containing the implementation of PSO and GA and the benchmark functions.
 
 ## Algorithms Implemented
 
@@ -87,8 +87,8 @@ Further detailed analysis and comparative plots are available within the noteboo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/RekcahA/Benchmarking-PSO-and-GA.git
+   cd Benchmarking-PSO-and-GA
    ```
 2. **Install dependencies:**
 
