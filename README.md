@@ -1,4 +1,4 @@
-# Computational Intelligence: Benchmarking PSO and GA
+# Benchmarking PSO and GA
 
 ## Overview
 
